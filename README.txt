@@ -1,0 +1,1 @@
+To run need to install Postman, Node.js, Newman
